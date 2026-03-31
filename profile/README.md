@@ -1,12 +1,14 @@
-## Hi there 👋
+# Welcome to LEV3L 👋
 
-<!--
+*Elevating ideas. Building the next generation of construction products.*
 
-**Here are some ideas to get you started:**
+## 🚀 About us
+At **LEV3L**, we are passionate about creating high-quality, user-friendly, innovative solutions. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🤝 Let's Connect
+We are always open to collaboration, feedback and netowrking!
+* **Website:** [lev3l.co.uk](https://lev3l.co.uk)
+* **Contact:** info@lev3l.co.uk
+
+## 🚀 Join the Team!
+*We're looking for telented individuals to help us innovate the future. Get into contact with us to hear about any open roles! 
